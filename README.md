@@ -2,14 +2,14 @@
 These are all the projects I worked on during my internship in the mechanical. They are divided into two sections: Modified Projects and cleared Projects.
 
 ## Modified Projects:
-### 1- Four ears ratio:
+### 1- Four Gears ratio:
 Change the number of teath
 
 [Onshape link](https://cad.onshape.com/documents/4d53b952c61965283c5180c8/w/9f2374b4c07054edd8a0a331/e/3268f02be4df9bd8263ba02b?renderMode=0&uiState=69a64aeac0fafece81117743)
 
 ![Four Gear Train Assembly](images/Four-gear-updated.png)
 
-### 2- Shock absorber:
+### 2- Shock Absorber:
 Make the spring rotate with the gear.
 
 [Onshape link](https://cad.onshape.com/documents/29898f60a6d5fa98c7035915/w/c027b0080ec57d55ffd3c461/e/b2e9fe28675e6842b37eea7b?renderMode=0&uiState=69a64b90c0fafece811178da)
@@ -23,9 +23,12 @@ Check if the Chassis is holding the motors and wheels well.
 
 ![Chassis Assembly](images/chassis-updated(1).png)
 
-### 4- Robotic arm:
+### 4- Robotic Arm:
 Make gear relation in the end-effector.
 
 [Onshape link](https://cad.onshape.com/documents/e3bd8ec72fd1965c7c460045/w/efc5c314086b705bb97cb7f0/e/3194d0fbfa50916d6639673b?renderMode=0&uiState=69a64e5988fb582d685f9f2b)
 
 ![Robotic arm Assembly](images/Robot-arm-updated.png)
+
+
+## Cleared Projects:
