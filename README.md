@@ -1,4 +1,4 @@
-# All-machanical-projects
+# All Machanical Projects
 These are all the projects I worked on during my internship in the mechanical. They are divided into two sections: Modified Projects and cleared Projects.
 
 ## Modified Projects:
