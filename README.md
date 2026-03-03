@@ -14,18 +14,18 @@ Make the spring rotate with the gear.
 
 [Onshape link](https://cad.onshape.com/documents/29898f60a6d5fa98c7035915/w/c027b0080ec57d55ffd3c461/e/b2e9fe28675e6842b37eea7b?renderMode=0&uiState=69a64b90c0fafece811178da)
 
-![Four Gear Train Assembly](imeges/gears-relation.png)
+![Shock absorber Assembly](images/Ver-2..png)
 
 ### 3- Chassis:
 Check if the Chassis is holding the motors and wheels well.
 
 [Onshape link](https://cad.onshape.com/documents/34c707881706398cd16b87a3/w/393acf8edfed52a665db1550/e/d15ba09a15af12f08a5c99f0?renderMode=0&uiState=69a64cf016183fe7202d405b)
 
-![Four Gear Train Assembly](imeges/gears-relation.png)
+![Chassis Assembly](images/chassis-updated(1).png)
 
 ### 4- Robotic arm:
 Make gear relation in the end-effector.
 
 [Onshape link](https://cad.onshape.com/documents/e3bd8ec72fd1965c7c460045/w/efc5c314086b705bb97cb7f0/e/3194d0fbfa50916d6639673b?renderMode=0&uiState=69a64e5988fb582d685f9f2b)
 
-![Four Gear Train Assembly](imeges/gears-relation.png)
+![Robotic arm Assembly](images/Robot-arm-updated.png)
